@@ -5,7 +5,7 @@ android {
     buildToolsVersion "27.0.3"
 
     defaultConfig {
-        applicationId "me.iacn.mbestyle"
+        applicationId "space.tumeo.pixel"
         minSdkVersion 17
         targetSdkVersion 27
         versionCode 26
@@ -42,7 +42,7 @@ android {
     // 修改生成 Apk 的文件名
     android.applicationVariants.all { variant ->
         variant.outputs.all { output ->
-            outputFileName = "MBEStyle_${defaultConfig.versionName}.apk"
+            outputFileName = "PixelStyle-${defaultConfig.versionName}.apk"
         }
     }
 }

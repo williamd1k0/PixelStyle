@@ -456,6 +456,12 @@
     <item
         component="ComponentInfo{com.lenovo.leos.appstore/com.lenovo.leos.appstore.activities.Main}"
         drawable="play_store" />
+    <item
+        component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.SearchActivity}"
+        drawable="yalp" />
+    <item
+        component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.InstalledAppsActivity}"
+        drawable="yalp" />
 
     <!-- 照片 / Photos -->
     <item
@@ -860,6 +866,9 @@
     <item
         component="ComponentInfo{me.iacn.mbestyle/me.iacn.mbestyle.ui.activity.MainActivity}"
         drawable="mbe" />
+    <item
+        component="ComponentInfo{space.tumeo.pixel/space.tumeo.pixel.ui.activity.MainActivity}"
+        drawable="pixelstyle" />
 
     <!-- cnBeta / cnBeta -->
     <item
@@ -1502,6 +1511,9 @@
         component="ComponentInfo{com.htc.htctwitter/com.htc.htctwitter.TwidroidSplash}"
         drawable="twitter" />
     <item
+        component="ComponentInfo{org.mariotaku.twidere/org.mariotaku.twidere.activity.MainActivity}"
+        drawable="twitter" />
+    <item
         component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}"
         drawable="instagram" />
     <item
@@ -1607,7 +1619,7 @@
     <!-- 2_25 / 2017-->
     <item
         component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}"
-        drawable="downloads" />
+        drawable="filemanager" />
     <item
         component="ComponentInfo{com.huawei.systemmanager/com.huawei.systemmanager.mainscreen.MainScreenActivity}"
         drawable="security" />
@@ -1786,6 +1798,12 @@
     <item
         component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}"
         drawable="facebook" />
+    <item
+        component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}"
+        drawable="facebook" />
+    <item
+        component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}"
+        drawable="messenger" />
     <item
         component="ComponentInfo{com.wm.realname/com.wm.realname.ui.SplashActivity}"
         drawable="shimingbao" />
@@ -2588,6 +2606,9 @@
         component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.SplashActivity}"
         drawable="magisk" />
     <item
+        component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.NoUIActivity}"
+        drawable="magisk" />
+    <item
         component="ComponentInfo{org.noear.ddcat/org.noear.ddcat.controller.HomeNavigationActivity}"
         drawable="ddcat" />
     <item
@@ -2977,6 +2998,9 @@
     <item
         component="ComponentInfo{com.zte.camera/com.zte.camera.CameraActivity}"
         drawable="camera" />
+    <item
+        component="ComponentInfo{net.sourceforge.opencamera/net.sourceforge.opencamera.MainActivity}"
+        drawable="opencamera" />
     <item
         component="ComponentInfo{cn.nubia.gallery3d/cn.nubia.gallery3d.app.Gallery}"
         drawable="gallery" />
@@ -4645,5 +4669,56 @@
     <item
         component="ComponentInfo{cn.liuyin.manhua/cn.liuyin.manhua.activity.HomeActivity}"
         drawable="android_app" />
+    <item
+        component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}"
+        drawable="discord" />
+    <item
+        component="ComponentInfo{com.keylesspalace.tusky/com.keylesspalace.tusky.SplashActivity}"
+        drawable="tusky" />
+    <item
+        component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}"
+        drawable="fdroid" />
+    <item
+        component="ComponentInfo{org.schabi.newpipe/org.schabi.newpipe.MainActivity}"
+        drawable="newpipe" />
+    <item
+        component="ComponentInfo{com.Slack/com.Slack.ui.HomeActivity}"
+        drawable="slack" />
+    <item
+        component="ComponentInfo{com.nu.production/com.nu.activity.main.InitialActivity}"
+        drawable="nubank" />
+    <item
+        component="ComponentInfo{com.meisterlabs.meistertask.native/com.meisterlabs.meistertask.features.dashboard.view.DashboardActivity}"
+        drawable="meistertask" />
+    <item
+        component="ComponentInfo{de.lilithwittmann.voicepitchanalyzer/de.lilithwittmann.voicepitchanalyzer.activities.RecordingListActivity}"
+        drawable="voicepitch" />
+    <item
+        component="ComponentInfo{de.rampro.activitydiary/de.rampro.activitydiary.ui.main.MainActivity}"
+        drawable="activitydiary" />
+    <item
+        component="ComponentInfo{de.tutao.tutanota/de.tutao.tutanota.MainActivity}"
+        drawable="tutanota" />
+    <item
+        component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.LaunchActivity}"
+        drawable="duckgo" />
+    <item
+        component="ComponentInfo{org.gdroid.gdroid/org.gdroid.gdroid.MainActivity}"
+        drawable="gdroid" />
+    <item
+        component="ComponentInfo{com.aiyra.ggj19/org.godotengine.godot.Godot}"
+        drawable="heartgame" />
+    <item
+        component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.fileselect.FileSelectActivity}"
+        drawable="keepassdx" />
+    <item
+        component="ComponentInfo{trikita.obsqr/trikita.obsqr.ObsqrActivity}"
+        drawable="obsqr" />
+    <item
+        component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}"
+        drawable="termux" />
+    <item
+        component="ComponentInfo{com.github.moko256.twitlatte/com.github.moko256.twitlatte.SplashActivity}"
+        drawable="twitlatte" />
 
 </resources>

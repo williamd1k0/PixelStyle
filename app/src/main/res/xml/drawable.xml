@@ -689,5 +689,26 @@
     <item drawable="_500px" />
     <item drawable="_58" />
     <item drawable="_5sing" />
+    <item drawable="pixelstyle" />
+    <item drawable="opencamera" />
+    <item drawable="yalp" />
+    <item drawable="discord" />
+    <item drawable="tusky" />
+    <item drawable="fdroid" />
+    <item drawable="newpipe" />
+    <item drawable="slack" />
+    <item drawable="nubank" />
+    <item drawable="messenger" />
+    <item drawable="meistertask" />
+    <item drawable="voicepitch" />
+    <item drawable="activitydiary" />
+    <item drawable="tutanota" />
+    <item drawable="duckgo" />
+    <item drawable="gdroid" />
+    <item drawable="heartgame" />
+    <item drawable="keepassdx" />
+    <item drawable="obsqr" />
+    <item drawable="termux" />
+    <item drawable="twitlatte" />
 
 </resources>
