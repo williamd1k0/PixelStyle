@@ -4720,5 +4720,22 @@
     <item
         component="ComponentInfo{com.github.moko256.twitlatte/com.github.moko256.twitlatte.SplashActivity}"
         drawable="twitlatte" />
-
+    <item
+        component="ComponentInfo{de.uwepost.android.deltacam/de.uwepost.android.deltacam.CameraActivity}"
+        drawable="deltacamera" />
+    <item
+        component="ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.MainActivity}"
+        drawable="markor" />
+    <item
+        component="ComponentInfo{deep.ryd.rydplayer/me.devsilver.musicpiped.MainActivity}"
+        drawable="musicpiped" />
+    <item
+        component="ComponentInfo{org.gateshipone.odyssey/org.gateshipone.odyssey.activities.OdysseySplashActivity}"
+        drawable="odyssey" />
+    <item
+        component="ComponentInfo{com.spotify.lite/com.spotify.lite.features.launcher.LauncherActivity}"
+        drawable="spotify" />
+    <item
+        component="ComponentInfo{fr.xgouchet.packageexplorer/fr.xgouchet.packageexplorer.applist.AppListActivity}"
+        drawable="stanley" />
 </resources>

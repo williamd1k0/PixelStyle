@@ -710,5 +710,10 @@
     <item drawable="obsqr" />
     <item drawable="termux" />
     <item drawable="twitlatte" />
+    <item drawable="stanley" />
+    <item drawable="musicpiped" />
+    <item drawable="markor" />
+    <item drawable="odyssey" />
+    <item drawable="deltacamera" />
 
 </resources>
