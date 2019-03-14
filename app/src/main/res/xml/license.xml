@@ -5,11 +5,11 @@
 
         <Preference
             android:summary="GNU General Public License 3.0"
-            android:title="MBE Style">
+            android:title="Pixel Style">
 
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://github.com/iAcn/MBEStyle" />
+                android:data="https://github.com/williamd1k0/PixelStyle" />
 
         </Preference>
 

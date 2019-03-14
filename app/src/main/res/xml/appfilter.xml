@@ -6,7 +6,6 @@
     <item
         component=":LAUNCHER_ACTION_APP_DRAWER"
         drawable="drawer" />
-
     <item
         component=":BROWSER"
         drawable="browser" />
@@ -4669,6 +4668,8 @@
     <item
         component="ComponentInfo{cn.liuyin.manhua/cn.liuyin.manhua.activity.HomeActivity}"
         drawable="android_app" />
+
+   <!-- 2019.03.10 Add -->
     <item
         component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}"
         drawable="discord" />
@@ -4702,6 +4703,8 @@
     <item
         component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.LaunchActivity}"
         drawable="duckgo" />
+    
+    <!-- 2019.03.12 Add -->
     <item
         component="ComponentInfo{org.gdroid.gdroid/org.gdroid.gdroid.MainActivity}"
         drawable="gdroid" />
@@ -4720,6 +4723,8 @@
     <item
         component="ComponentInfo{com.github.moko256.twitlatte/com.github.moko256.twitlatte.SplashActivity}"
         drawable="twitlatte" />
+    
+    <!-- 2019.03.14 Add -->
     <item
         component="ComponentInfo{de.uwepost.android.deltacam/de.uwepost.android.deltacam.CameraActivity}"
         drawable="deltacamera" />
@@ -4738,4 +4743,5 @@
     <item
         component="ComponentInfo{fr.xgouchet.packageexplorer/fr.xgouchet.packageexplorer.applist.AppListActivity}"
         drawable="stanley" />
+
 </resources>
