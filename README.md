@@ -8,10 +8,10 @@ HD Designer: 幼幼保护协会 @Coolapk
 
 Pixel Art Designer: [@williamd1k0](https://github.com/williamd1k0/)
 
-![All icons](tools/icons/study/icons.png)
-![All icons upscale](tools/icons/study/icons-xxl.png)
+![All icons](assets/dev/all.png)
+![All icons upscale](assets/dev/all-xxl.png)
 
 
->TODO: Remove uncommon icons from MBE Style
+>TODO: Remove unusual icons and wallpapers from MBE Style.
 
->TODO: Write a style guideline doc
+>TODO: Write a style guideline doc.

@@ -1,4 +1,5 @@
 #!/usr/bin/sh
+cd ../icons/
 X=6
 SPRITES=$(find *.png | wc -l)
 ceiling() {
@@ -8,5 +9,5 @@ ceiling() {
 }
 Y=$(ceiling)
 echo ${X}x${Y}
-magick montage *.png -tile ${X}x${Y} -geometry 16x16+0+0 -background none study/icons.png
-magick study/icons.png -scale 1200% study/icons-xxl.png
+magick montage *.png -tile ${X}x${Y} -geometry 16x16+0+0 -background none ../dev/all.png
+magick ../dev/all.png -scale 1200% ../dev/all-xxl.png

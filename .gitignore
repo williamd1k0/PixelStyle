@@ -38,3 +38,5 @@ build/
 *.keystore
 
 config.prop
+
+.resized/
