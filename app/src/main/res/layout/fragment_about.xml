@@ -39,13 +39,6 @@
             app:title="开发" />
 
         <me.iacn.mbestyle.ui.widget.AboutItem
-            android:id="@+id/ai_donate"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            app:summary="点击会尝试打开支付宝"
-            app:title="捐赠" />
-
-        <me.iacn.mbestyle.ui.widget.AboutItem
             android:id="@+id/ai_open_source"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

@@ -15,7 +15,6 @@ import me.iacn.mbestyle.R;
 import me.iacn.mbestyle.ui.activity.LicenseActivity;
 import me.iacn.mbestyle.ui.widget.AboutItem;
 import me.iacn.mbestyle.util.GlideUtils;
-import moe.feng.alipay.zerosdk.AlipayZeroSdk;
 
 /**
  * Created by iAcn on 2017/2/18
@@ -28,7 +27,6 @@ public class AboutFragment extends BaseFragment implements View.OnClickListener 
     private AboutItem aiVersion;
     private AboutItem aiDesigner;
     private AboutItem aiDeveloper;
-    private AboutItem aiDonate;
     private AboutItem aiOpenSource;
 
     @Override
@@ -42,7 +40,6 @@ public class AboutFragment extends BaseFragment implements View.OnClickListener 
         aiVersion = (AboutItem) findViewById(R.id.ai_version);
         aiDesigner = (AboutItem) findViewById(R.id.ai_designer);
         aiDeveloper = (AboutItem) findViewById(R.id.ai_developer);
-        aiDonate = (AboutItem) findViewById(R.id.ai_donate);
         aiOpenSource = (AboutItem) findViewById(R.id.ai_open_source);
     }
 
@@ -51,7 +48,6 @@ public class AboutFragment extends BaseFragment implements View.OnClickListener 
         aiVersion.setOnClickListener(this);
         aiDesigner.setOnClickListener(this);
         aiDeveloper.setOnClickListener(this);
-        aiDonate.setOnClickListener(this);
         aiOpenSource.setOnClickListener(this);
     }
 
@@ -70,9 +66,6 @@ public class AboutFragment extends BaseFragment implements View.OnClickListener 
             case R.id.ai_developer:
                 openUrl("http://coolapk.com/u/532152");
                 break;
-            case R.id.ai_donate:
-                openAliPay();
-                break;
             case R.id.ai_open_source:
                 startActivity(new Intent(getActivity(), LicenseActivity.class));
                 break;
@@ -88,15 +81,4 @@ public class AboutFragment extends BaseFragment implements View.OnClickListener 
         }
     }
 
-    private void openAliPay() {
-        if (AlipayZeroSdk.hasInstalledAlipayClient(getActivity())) {
-            AlipayZeroSdk.startAlipayClient(getActivity(), "aex08398iixbcgfl5ryqk3c");
-        } else {
-            ((ClipboardManager) getActivity().getSystemService(Context.CLIPBOARD_SERVICE))
-                    .setPrimaryClip(ClipData.newPlainText(null, "18588533502"));
-
-            Toast.makeText(getActivity(),
-                    "未安装支付宝客户端\n已将支付宝ID复制到剪贴板", Toast.LENGTH_SHORT).show();
-        }
-    }
 }
