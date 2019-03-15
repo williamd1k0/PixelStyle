@@ -2,5 +2,5 @@
     <string name="app_name">Pixel Style</string>
     <string name="app_title">Pixel Style</string>
     <string name="component_template">ComponentInfo{$mainIntentActivity$}</string>
-    <string name="launcher_not_found">你好像还没有安装该桌面==</string>
+    <string name="launcher_not_found">This launcher was not found.</string>
 </resources>

@@ -21,10 +21,10 @@ import java.util.Arrays;
 import java.util.List;
 
 import me.iacn.mbestyle.R;
+import me.iacn.mbestyle.ui.fragment.BaseFragment;
 import me.iacn.mbestyle.ui.fragment.AboutFragment;
 import me.iacn.mbestyle.ui.fragment.ApplyFragment;
 import me.iacn.mbestyle.ui.fragment.IconFragment;
-import me.iacn.mbestyle.ui.fragment.RequestFragment;
 import me.iacn.mbestyle.util.ScreenUtils;
 import me.iacn.mbestyle.util.StatusBarUtils;
 
@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
     private Toolbar mToolbar;
 
     private int mCurrentIndex = -1;
-    private List<Fragment> mFragments;
+    private List<BaseFragment> mFragments;
     private FragmentManager mFragmentManager;
 
     @Override
@@ -58,7 +58,6 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
         mFragments = Arrays.asList(
                 new IconFragment(),
                 new ApplyFragment(),
-                new RequestFragment(),
                 new AboutFragment());
 
         mFragmentManager = getFragmentManager();
@@ -79,18 +78,6 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
         }
 
         return false;
-    }
-
-    @Override
-    public void onBackPressed() {
-        if (mCurrentIndex == 2) {
-            // 调用申请 Fragment 的 onBackPressed()
-            // 以处理有选中时的取消操作
-            RequestFragment fragment = (RequestFragment) mFragments.get(2);
-            fragment.onBackPressed();
-        } else {
-            super.onBackPressed();
-        }
     }
 
     private void setBottomIconOriColor(BottomNavigationView bottomView) {

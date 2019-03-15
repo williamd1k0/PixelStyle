@@ -35,7 +35,7 @@ public class ApplyAdapter extends RecyclerView.Adapter<ApplyHolder> {
     @Override
     public ApplyHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         ApplyHolder holder;
-
+        // TODO: Properly Remove Wallpapers
         if (viewType == TYPE_ITEM_WALLPAPER) {
             holder = new ApplyHolder(LayoutInflater.from(
                     parent.getContext()).inflate(R.layout.item_apply_wallpaper, parent, false), true);
@@ -43,9 +43,7 @@ public class ApplyAdapter extends RecyclerView.Adapter<ApplyHolder> {
             holder = new ApplyHolder(LayoutInflater.from(
                     parent.getContext()).inflate(R.layout.item_apply_launcher, parent, false), false);
         }
-
         holder.mListener = mListener;
-
         return holder;
     }
 
@@ -65,7 +63,7 @@ public class ApplyAdapter extends RecyclerView.Adapter<ApplyHolder> {
 
     @Override
     public int getItemViewType(int position) {
-        return position == 0 ? TYPE_ITEM_WALLPAPER : TYPE_ITEM_LAUNCHER;
+        return TYPE_ITEM_LAUNCHER;
     }
 
     public void setOnItemClickListener(OnItemClickListener listener) {

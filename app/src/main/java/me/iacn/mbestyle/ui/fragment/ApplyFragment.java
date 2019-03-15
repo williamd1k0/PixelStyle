@@ -11,7 +11,7 @@ import android.widget.Toast;
 
 import me.iacn.mbestyle.BuildConfig;
 import me.iacn.mbestyle.R;
-import me.iacn.mbestyle.ui.activity.WallpaperActivity;
+// import me.iacn.mbestyle.ui.activity.WallpaperActivity;
 import me.iacn.mbestyle.ui.adapter.ApplyAdapter;
 import me.iacn.mbestyle.ui.callback.OnItemClickListener;
 import me.iacn.mbestyle.util.GlideUtils;
@@ -32,7 +32,7 @@ public class ApplyFragment extends BaseFragment implements OnItemClickListener {
 
     @Override
     protected void findView() {
-        rvApply = (RecyclerView) findViewById(R.id.rv_wallpaper);
+        rvApply = (RecyclerView) findViewById(R.id.rv_launcher);
     }
 
     @Override
@@ -76,43 +76,43 @@ public class ApplyFragment extends BaseFragment implements OnItemClickListener {
     @Override
     public void onItemClick(View itemView, int position) {
         switch (position) {
+            // case 0:
+            //     startActivity(new Intent(getActivity(), WallpaperActivity.class));
+            //     break;
             case 0:
-                startActivity(new Intent(getActivity(), WallpaperActivity.class));
-                break;
-            case 1:
                 NovaLauncher();
                 break;
-            case 2:
+            case 1:
                 ActionLauncher();
                 break;
-            case 3:
+            case 2:
                 AdwLauncher();
                 break;
-            case 4:
+            case 3:
                 ApexLauncher();
                 break;
-            case 5:
+            case 4:
                 AtomLauncher();
                 break;
-            case 6:
+            case 5:
                 AviateLauncher();
                 break;
-            case 7:
+            case 6:
                 GoLauncher();
                 break;
-            case 8:
+            case 7:
                 KKLauncher();
                 break;
-            case 9:
+            case 8:
                 LgHomeLauncher();
                 break;
-            case 10:
+            case 9:
                 NextLauncher();
                 break;
-            case 11:
+            case 10:
                 SmartLauncher();
                 break;
-            case 12:
+            case 11:
                 SoloLauncher();
                 break;
         }

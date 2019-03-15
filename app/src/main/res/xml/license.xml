@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <PreferenceCategory android:title="开源许可">
+    <PreferenceCategory android:title="Free/Open-Source Licenses">
 
         <Preference
             android:summary="GNU General Public License 3.0"
@@ -10,6 +10,16 @@
             <intent
                 android:action="android.intent.action.VIEW"
                 android:data="https://github.com/williamd1k0/PixelStyle" />
+
+        </Preference>
+
+        <Preference
+            android:summary="GNU General Public License 3.0"
+            android:title="MBE Style">
+
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://github.com/iAcn/MBEStyle" />
 
         </Preference>
 
@@ -73,7 +83,7 @@
 
         </Preference>
 
-        <Preference
+        <!-- <Preference
             android:summary="Apache Software License 2.0"
             android:title="AlipayZeroSdk">
 
@@ -81,7 +91,7 @@
                 android:action="android.intent.action.VIEW"
                 android:data="https://github.com/fython/AlipayZeroSdk" />
 
-        </Preference>
+        </Preference> -->
 
         <Preference
             android:summary="Apache Software License 2.0"

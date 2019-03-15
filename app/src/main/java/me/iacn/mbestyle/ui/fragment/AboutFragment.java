@@ -27,6 +27,7 @@ public class AboutFragment extends BaseFragment implements View.OnClickListener 
     private AboutItem aiVersion;
     private AboutItem aiDesigner;
     private AboutItem aiDeveloper;
+    private AboutItem aiDeveloperPixel;
     private AboutItem aiOpenSource;
 
     @Override
@@ -40,6 +41,7 @@ public class AboutFragment extends BaseFragment implements View.OnClickListener 
         aiVersion = (AboutItem) findViewById(R.id.ai_version);
         aiDesigner = (AboutItem) findViewById(R.id.ai_designer);
         aiDeveloper = (AboutItem) findViewById(R.id.ai_developer);
+        aiDeveloperPixel = (AboutItem) findViewById(R.id.ai_developer_pixel);
         aiOpenSource = (AboutItem) findViewById(R.id.ai_open_source);
     }
 
@@ -48,6 +50,7 @@ public class AboutFragment extends BaseFragment implements View.OnClickListener 
         aiVersion.setOnClickListener(this);
         aiDesigner.setOnClickListener(this);
         aiDeveloper.setOnClickListener(this);
+        aiDeveloperPixel.setOnClickListener(this);
         aiOpenSource.setOnClickListener(this);
     }
 
@@ -65,6 +68,9 @@ public class AboutFragment extends BaseFragment implements View.OnClickListener 
                 break;
             case R.id.ai_developer:
                 openUrl("http://coolapk.com/u/532152");
+                break;
+            case R.id.ai_developer_pixel:
+                openUrl("https://github.com/williamd1k0");
                 break;
             case R.id.ai_open_source:
                 startActivity(new Intent(getActivity(), LicenseActivity.class));

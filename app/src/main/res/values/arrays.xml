@@ -16,18 +16,12 @@
     </string-array>
 
     <string-array name="whatsnew">
-        <item>baimiao</item>
-        <item>chaoxingstudy</item>
-        <item>hacg</item>
-        <item>jinritoutiao</item>
-        <item>meeye</item>
-        <item>mogicians</item>
-        <item>netease_comic</item>
-        <item>nutstore</item>
-        <item>pinduoduo</item>
-        <item>qtradio</item>
-        <item>unionpay</item>
-        <item>v2er</item>
+        <item>markor</item>
+        <item>musicpiped</item>
+        <item>stanley</item>
+        <item>deltacamera</item>
+        <item>odyssey</item>
+        <item>spotify</item>
     </string-array>
 
 </resources>
