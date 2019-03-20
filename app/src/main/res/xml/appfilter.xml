@@ -4744,4 +4744,157 @@
         component="ComponentInfo{fr.xgouchet.packageexplorer/fr.xgouchet.packageexplorer.applist.AppListActivity}"
         drawable="stanley" />
 
+    <!-- 2019.03.20 Add -->
+    <item
+        component="ComponentInfo{com.iazasoft.footguy/com.iazasoft.footguy.FootHelp}"
+        drawable="footguy" />
+    <item
+        component="ComponentInfo{theredspy15.ltecleanerfoss/theredspy15.ltecleanerfoss.MainActivity}"
+        drawable="ltecleaner" />
+
+    <!-- Simple Mobile Tools -->
+	<item
+		component="ComponentInfo{com.simplemobiletools.calculator/com.simplemobiletools.calculator.activities.SplashActivity.Orange}"
+		drawable="simple_calculator" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.calculator.pro/com.simplemobiletools.calculator.pro.activities.SplashActivity.Orange}"
+		drawable="simple_calculator" />	<item
+		component="ComponentInfo{com.simplemobiletools.calculator/com.simplemobiletools.calculator.activities.SplashActivity}"
+		drawable="simple_calculator" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.calculator.pro/com.simplemobiletools.calculator.pro.activities.SplashActivity}"
+		drawable="simple_calculator" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Orange}"
+		drawable="simple_calendar" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Orange}"
+		drawable="simple_calendar" />	<item
+		component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity}"
+		drawable="simple_calendar" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity}"
+		drawable="simple_calendar" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Orange}"
+		drawable="simple_camera" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.camera.pro/com.simplemobiletools.camera.pro.activities.SplashActivity.Orange}"
+		drawable="simple_camera" />	<item
+		component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity}"
+		drawable="simple_camera" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.camera.pro/com.simplemobiletools.camera.pro.activities.SplashActivity}"
+		drawable="simple_camera" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Orange}"
+		drawable="simple_clock" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.clock.pro/com.simplemobiletools.clock.pro.activities.SplashActivity.Orange}"
+		drawable="simple_clock" />	<item
+		component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity}"
+		drawable="simple_clock" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.clock.pro/com.simplemobiletools.clock.pro.activities.SplashActivity}"
+		drawable="simple_clock" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.contacts/com.simplemobiletools.contacts.activities.SplashActivity.Orange}"
+		drawable="simple_contacts" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Orange}"
+		drawable="simple_contacts" />	<item
+		component="ComponentInfo{com.simplemobiletools.contacts/com.simplemobiletools.contacts.activities.SplashActivity}"
+		drawable="simple_contacts" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity}"
+		drawable="simple_contacts" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.draw/com.simplemobiletools.draw.activities.SplashActivity.Orange}"
+		drawable="simple_draw" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.draw.pro/com.simplemobiletools.draw.pro.activities.SplashActivity.Orange}"
+		drawable="simple_draw" />	<item
+		component="ComponentInfo{com.simplemobiletools.draw/com.simplemobiletools.draw.activities.SplashActivity}"
+		drawable="simple_draw" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.draw.pro/com.simplemobiletools.draw.pro.activities.SplashActivity}"
+		drawable="simple_draw" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Orange}"
+		drawable="simple_filemanager" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Orange}"
+		drawable="simple_filemanager" />	<item
+		component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity}"
+		drawable="simple_filemanager" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity}"
+		drawable="simple_filemanager" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.flashlight/com.simplemobiletools.flashlight.activities.SplashActivity.Orange}"
+		drawable="simple_flashlight" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.flashlight.pro/com.simplemobiletools.flashlight.pro.activities.SplashActivity.Orange}"
+		drawable="simple_flashlight" />	<item
+		component="ComponentInfo{com.simplemobiletools.flashlight/com.simplemobiletools.flashlight.activities.SplashActivity}"
+		drawable="simple_flashlight" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.flashlight.pro/com.simplemobiletools.flashlight.pro.activities.SplashActivity}"
+		drawable="simple_flashlight" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Orange}"
+		drawable="simple_gallery" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange}"
+		drawable="simple_gallery" />	<item
+		component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity}"
+		drawable="simple_gallery" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity}"
+		drawable="simple_gallery" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.applauncher/com.simplemobiletools.applauncher.activities.SplashActivity.Orange}"
+		drawable="simple_applauncher" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.applauncher.pro/com.simplemobiletools.applauncher.pro.activities.SplashActivity.Orange}"
+		drawable="simple_applauncher" />	<item
+		component="ComponentInfo{com.simplemobiletools.applauncher/com.simplemobiletools.applauncher.activities.SplashActivity}"
+		drawable="simple_applauncher" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.applauncher.pro/com.simplemobiletools.applauncher.pro.activities.SplashActivity}"
+		drawable="simple_applauncher" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Orange}"
+		drawable="simple_musicplayer" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.musicplayer.pro/com.simplemobiletools.musicplayer.pro.activities.SplashActivity.Orange}"
+		drawable="simple_musicplayer" />	<item
+		component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity}"
+		drawable="simple_musicplayer" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.musicplayer.pro/com.simplemobiletools.musicplayer.pro.activities.SplashActivity}"
+		drawable="simple_musicplayer" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.notes/com.simplemobiletools.notes.activities.SplashActivity.Orange}"
+		drawable="simple_notes" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Orange}"
+		drawable="simple_notes" />	<item
+		component="ComponentInfo{com.simplemobiletools.notes/com.simplemobiletools.notes.activities.SplashActivity}"
+		drawable="simple_notes" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity}"
+		drawable="simple_notes" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Orange}"
+		drawable="simple_thankyou" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.thankyou.pro/com.simplemobiletools.thankyou.pro.activities.SplashActivity.Orange}"
+		drawable="simple_thankyou" />	<item
+		component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity}"
+		drawable="simple_thankyou" />
+	<item
+		component="ComponentInfo{com.simplemobiletools.thankyou.pro/com.simplemobiletools.thankyou.pro.activities.SplashActivity}"
+		drawable="simple_thankyou" />
+
 </resources>

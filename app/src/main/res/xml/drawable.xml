@@ -716,5 +716,20 @@
     <item drawable="markor" />
     <item drawable="odyssey" />
     <item drawable="deltacamera" />
+    <item drawable="footguy" />
+    <item drawable="ltecleaner" />
+    <item drawable="simple_calculator" />
+    <item drawable="simple_calendar" />
+    <item drawable="simple_camera" />
+    <item drawable="simple_clock" />
+    <item drawable="simple_contacts" />
+    <item drawable="simple_draw" />
+    <item drawable="simple_filemanager" />
+    <item drawable="simple_flashlight" />
+    <item drawable="simple_gallery" />
+    <item drawable="simple_applauncher" />
+    <item drawable="simple_musicplayer" />
+    <item drawable="simple_notes" />
+    <item drawable="simple_thankyou" />
 
 </resources>
