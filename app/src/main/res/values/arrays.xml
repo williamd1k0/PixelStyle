@@ -17,11 +17,16 @@
 
     <string-array name="whatsnew">
         <item>aurora_store</item>
+        <item>binaural_beats</item>
         <item>calculator_notify</item>
+        <item>clipboard</item>
         <item>open_flood</item>
         <item>pin</item>
         <item>fm</item>
         <item>radiodroid</item>
+        <item>syncthing</item>
+        <item>subway_tooter</item>
+        <item>tetris</item>
         <item>tinder</item>
         <item>twidere</item>
         <item>vector_camera</item>

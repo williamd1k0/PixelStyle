@@ -739,6 +739,10 @@
     <item drawable="tinder" />
     <item drawable="twidere" />
     <item drawable="vector_camera" />
-
+    <item drawable="binaural_beats" />
+    <item drawable="tetris" />
+    <item drawable="clipboard" />
+    <item drawable="syncthing" />
+    <item drawable="subway_tooter" />
 
 </resources>

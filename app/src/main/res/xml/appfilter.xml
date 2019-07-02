@@ -4919,4 +4919,19 @@
 	<item
 		component="ComponentInfo{com.dozingcatsoftware.vectorcamera/com.dozingcatsoftware.vectorcamera.MainActivity}"
 		drawable="vector_camera" />
+	<item
+		component="ComponentInfo{com.github.axet.binauralbeats/com.github.axet.binauralbeats.activities.MainActivity}"
+		drawable="binaural_beats" />
+	<item
+		component="ComponentInfo{org.blockinger.game/org.blockinger.game.activities.MainActivity}"
+		drawable="tetris" />
+	<item
+		component="ComponentInfo{com.tengu.sharetoclipboard/com.tengu.sharetoclipboard.MainActivity}"
+		drawable="clipboard" />
+	<item
+		component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}"
+		drawable="syncthing" />
+	<item
+		component="ComponentInfo{jp.juggler.subwaytooter/jp.juggler.subwaytooter.ActMain}"
+		drawable="subway_tooter" />
 </resources>
