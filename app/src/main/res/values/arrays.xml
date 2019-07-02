@@ -16,25 +16,17 @@
     </string-array>
 
     <string-array name="whatsnew">
-        <item>footguy</item>
-        <item>ltecleaner</item>
-        <item>browser</item>
-        <item>clock</item>
-        <item>contacts</item>
-        <item>mxplayer</item>
-        <item>simple_calculator</item>
-        <item>simple_calendar</item>
-        <item>simple_camera</item>
-        <item>simple_clock</item>
-        <item>simple_contacts</item>
-        <item>simple_draw</item>
-        <item>simple_filemanager</item>
-        <item>simple_flashlight</item>
-        <item>simple_gallery</item>
-        <item>simple_applauncher</item>
-        <item>simple_musicplayer</item>
-        <item>simple_notes</item>
-        <item>simple_thankyou</item>
+        <item>aurora_store</item>
+        <item>calculator_notify</item>
+        <item>open_flood</item>
+        <item>pin</item>
+        <item>fm</item>
+        <item>radiodroid</item>
+        <item>tinder</item>
+        <item>twidere</item>
+        <item>vector_camera</item>
+        <item>mail</item>
+        <item>touchpal_keyboard</item>
     </string-array>
 
 </resources>

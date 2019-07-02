@@ -731,5 +731,14 @@
     <item drawable="simple_musicplayer" />
     <item drawable="simple_notes" />
     <item drawable="simple_thankyou" />
+    <item drawable="aurora_store" />
+    <item drawable="calculator_notify" />
+    <item drawable="open_flood" />
+    <item drawable="pin" />
+    <item drawable="radiodroid" />
+    <item drawable="tinder" />
+    <item drawable="twidere" />
+    <item drawable="vector_camera" />
+
 
 </resources>
