@@ -744,5 +744,11 @@
     <item drawable="clipboard" />
     <item drawable="syncthing" />
     <item drawable="subway_tooter" />
+    <item drawable="phyphox" />
+    <item drawable="shattered_pixel" />
+    <item drawable="skymap" />
+    <item drawable="tor" />
+    <item drawable="waveup" />
+    <item drawable="yandex_translate" />
 
 </resources>

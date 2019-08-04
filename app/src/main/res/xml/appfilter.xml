@@ -4934,4 +4934,25 @@
 	<item
 		component="ComponentInfo{jp.juggler.subwaytooter/jp.juggler.subwaytooter.ActMain}"
 		drawable="subway_tooter" />
+
+	<!-- 2019.08.03 Add -->
+	<item
+		component="ComponentInfo{de.rwth_aachen.phyphox/de.rwth_aachen.phyphox.ExperimentList}"
+		drawable="phyphox" />
+	<item
+		component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.ShatteredPixelDungeon}"
+		drawable="shattered_pixel" />
+	<item
+		component="ComponentInfo{com.google.android.stardroid/com.google.android.stardroid.activities.SplashScreenActivity}"
+		drawable="skymap" />
+	<item
+		component="ComponentInfo{org.torproject.torbrowser/org.torproject.torbrowser.App}"
+		drawable="tor" />
+	<item
+		component="ComponentInfo{ru.yandex.translate/ru.yandex.translate.ui.activities.MainActivity}"
+		drawable="yandex_translate" />
+	<item
+		component="ComponentInfo{com.jarsilio.android.waveup/com.jarsilio.android.waveup.MainActivity}"
+		drawable="waveup" />
+
 </resources>
