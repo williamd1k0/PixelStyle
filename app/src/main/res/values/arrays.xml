@@ -16,14 +16,7 @@
     </string-array>
 
     <string-array name="whatsnew">
-        <item>phyphox</item>
-        <item>shattered_pixel</item>
-        <item>skymap</item>
-        <item>tor</item>
-        <item>waveup</item>
-        <item>yandex_translate</item>
-        <item>google_translate</item>
-        <item>twidere</item>
+        <item>aurora_droid</item>
     </string-array>
 
 </resources>

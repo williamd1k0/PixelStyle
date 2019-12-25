@@ -4957,5 +4957,10 @@
 	<item
 		component="ComponentInfo{com.jarsilio.android.waveup/com.jarsilio.android.waveup.MainActivity}"
 		drawable="waveup" />
+	
+	<!-- 2019.12.25 Add -->
+	<item
+		component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.activity.AuroraActivity}"
+		drawable="aurora_droid" />
 
 </resources>

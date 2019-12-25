@@ -9,7 +9,7 @@ android {
         minSdkVersion 17
         targetSdkVersion 27
         versionCode 27
-        versionName "0.4.1"
+        versionName "0.5.0"
         resConfigs "en"
     }
 

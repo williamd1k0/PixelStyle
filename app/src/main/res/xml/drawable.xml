@@ -750,5 +750,6 @@
     <item drawable="tor" />
     <item drawable="waveup" />
     <item drawable="yandex_translate" />
+    <item drawable="aurora_droid" />
 
 </resources>
