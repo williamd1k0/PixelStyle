@@ -4484,6 +4484,9 @@
 		component="ComponentInfo{org.mozilla.focus/org.mozilla.focus.activity.MainActivity}"
 		drawable="firefox_focus" />
 	<item
+		component="ComponentInfo{org.mozilla.klar/org.mozilla.focus.activity.MainActivity}"
+		drawable="firefox_focus" />
+	<item
 		component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App}"
 		drawable="firefox_nightly" />
 
@@ -4686,7 +4689,7 @@
 		component="ComponentInfo{com.nu.production/br.com.nubank.shell.screens.splash.SplashActivity}"
 		drawable="nubank" />
 	<item
-		component="ComponentInfo{com.meisterlabs.meistertask.native/com.meisterlabs.meistertask.features.dashboard.view.DashboardActivity}"
+		component="ComponentInfo{com.meisterlabs.meistertask.native/com.meisterlabs.meistertask.features.dashboard.ui.DashboardActivity}"
 		drawable="meistertask" />
 	<item
 		component="ComponentInfo{de.lilithwittmann.voicepitchanalyzer/de.lilithwittmann.voicepitchanalyzer.activities.RecordingListActivity}"
@@ -4709,7 +4712,7 @@
 		component="ComponentInfo{com.aiyra.ggj19/org.godotengine.godot.Godot}"
 		drawable="heartgame" />
 	<item
-		component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.fileselect.FileSelectActivity}"
+		component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}"
 		drawable="keepassdx" />
 	<item
 		component="ComponentInfo{trikita.obsqr/trikita.obsqr.ObsqrActivity}"
@@ -4729,7 +4732,7 @@
 		component="ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.MainActivity}"
 		drawable="markor" />
 	<item
-		component="ComponentInfo{deep.ryd.rydplayer/me.devsilver.musicpiped.MainActivity}"
+		component="ComponentInfo{deep.ryd.rydplayer/deep.ryd.MainActivity}"
 		drawable="musicpiped" />
 	<item
 		component="ComponentInfo{org.gateshipone.odyssey/org.gateshipone.odyssey.activities.OdysseySplashActivity}"
@@ -4940,7 +4943,7 @@
 		component="ComponentInfo{de.rwth_aachen.phyphox/de.rwth_aachen.phyphox.ExperimentList}"
 		drawable="phyphox" />
 	<item
-		component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.ShatteredPixelDungeon}"
+		component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher}"
 		drawable="shattered_pixel" />
 	<item
 		component="ComponentInfo{com.google.android.stardroid/com.google.android.stardroid.activities.SplashScreenActivity}"
