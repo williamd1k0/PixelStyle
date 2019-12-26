@@ -760,5 +760,6 @@
     <item drawable="netflix" />
     <item drawable="minetest" />
     <item drawable="habitica" />
+    <item drawable="prime_video" />
 
 </resources>
