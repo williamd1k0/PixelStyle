@@ -754,5 +754,6 @@
     <item drawable="kdeconnect" />
     <item drawable="money_manager_ex" />
     <item drawable="picpay" />
+    <item drawable="whatsapp" />
 
 </resources>
