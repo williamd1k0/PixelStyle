@@ -4980,5 +4980,8 @@
 	<item
 		component="ComponentInfo{com.perflyst.twire/com.perflyst.twire.activities.StartUpActivity}"
 		drawable="twire" />
+	<item
+		component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}"
+		drawable="netflix" />
 
 </resources>

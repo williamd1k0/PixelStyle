@@ -757,5 +757,6 @@
     <item drawable="whatsapp" />
     <item drawable="open_food_facts" />
     <item drawable="twire" />
+    <item drawable="netflix" />
 
 </resources>
