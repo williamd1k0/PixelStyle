@@ -5001,5 +5001,8 @@
 	<item
 		component="ComponentInfo{giraffine.dimmer/giraffine.dimmer.Dimmer}"
 		drawable="dimmer" />
+	<item
+		component="ComponentInfo{com.github.xloem.qrstream/com.github.xloem.qrstream.Launcher}"
+		drawable="qrstream" />
 
 </resources>
