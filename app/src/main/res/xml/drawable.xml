@@ -762,5 +762,6 @@
     <item drawable="habitica" />
     <item drawable="prime_video" />
     <item drawable="anysoft_keyboard" />
+    <item drawable="dimmer" />
 
 </resources>

@@ -4998,5 +4998,8 @@
 	<item
 		component="ComponentInfo{com.menny.android.anysoftkeyboard/com.menny.android.anysoftkeyboard.LauncherSettingsActivity}"
 		drawable="anysoft_keyboard" />
+	<item
+		component="ComponentInfo{giraffine.dimmer/giraffine.dimmer.Dimmer}"
+		drawable="dimmer" />
 
 </resources>
