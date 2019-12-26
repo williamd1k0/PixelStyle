@@ -759,5 +759,6 @@
     <item drawable="twire" />
     <item drawable="netflix" />
     <item drawable="minetest" />
+    <item drawable="habitica" />
 
 </resources>
