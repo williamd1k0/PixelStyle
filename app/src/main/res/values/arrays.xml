@@ -17,6 +17,7 @@
 
     <string-array name="whatsnew">
         <item>aurora_droid</item>
+        <item>chrome</item>
         <item>kdeconnect</item>
         <item>money_manager_ex</item>
         <item>netflix</item>
