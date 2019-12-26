@@ -4962,5 +4962,14 @@
 	<item
 		component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.activity.AuroraActivity}"
 		drawable="aurora_droid" />
+	<item
+		component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}"
+		drawable="kdeconnect" />
+	<item
+		component="ComponentInfo{com.money.manager.ex/com.money.manager.ex.home.MainActivity}"
+		drawable="money_manager_ex" />
+	<item
+		component="ComponentInfo{com.picpay/com.picpay.features.enter.PicPayEnterActivity}"
+		drawable="picpay" />
 
 </resources>

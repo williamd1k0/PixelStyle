@@ -17,6 +17,9 @@
 
     <string-array name="whatsnew">
         <item>aurora_droid</item>
+        <item>kdeconnect</item>
+        <item>money_manager_ex</item>
+        <item>picpay</item>
     </string-array>
 
 </resources>

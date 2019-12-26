@@ -751,5 +751,8 @@
     <item drawable="waveup" />
     <item drawable="yandex_translate" />
     <item drawable="aurora_droid" />
+    <item drawable="kdeconnect" />
+    <item drawable="money_manager_ex" />
+    <item drawable="picpay" />
 
 </resources>
