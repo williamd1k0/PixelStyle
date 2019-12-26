@@ -1,6 +1,6 @@
 #!/bin/sh
 cd ../icons/
-X=6
+X=7
 SPRITES=$(find *.png | wc -l)
 ceiling() {
   awk -vnumber="$SPRITES" -vdiv="$X" '
