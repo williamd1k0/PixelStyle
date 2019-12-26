@@ -761,5 +761,6 @@
     <item drawable="minetest" />
     <item drawable="habitica" />
     <item drawable="prime_video" />
+    <item drawable="anysoft_keyboard" />
 
 </resources>

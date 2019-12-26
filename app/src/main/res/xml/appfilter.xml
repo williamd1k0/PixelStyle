@@ -4995,5 +4995,8 @@
 	<item
 		component="ComponentInfo{com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity}"
 		drawable="prime_video" />
+	<item
+		component="ComponentInfo{com.menny.android.anysoftkeyboard/com.menny.android.anysoftkeyboard.LauncherSettingsActivity}"
+		drawable="anysoft_keyboard" />
 
 </resources>

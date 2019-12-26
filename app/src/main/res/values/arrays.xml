@@ -16,6 +16,7 @@
     </string-array>
 
     <string-array name="whatsnew">
+        <item>anysoft_keyboard</item>
         <item>aurora_droid</item>
         <item>chrome</item>
         <item>habitica</item>
