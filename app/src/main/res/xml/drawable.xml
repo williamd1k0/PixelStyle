@@ -758,5 +758,6 @@
     <item drawable="open_food_facts" />
     <item drawable="twire" />
     <item drawable="netflix" />
+    <item drawable="minetest" />
 
 </resources>

@@ -4983,5 +4983,8 @@
 	<item
 		component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}"
 		drawable="netflix" />
+	<item
+		component="ComponentInfo{net.minetest.minetest/net.minetest.minetest.MainActivity}"
+		drawable="minetest" />
 
 </resources>
