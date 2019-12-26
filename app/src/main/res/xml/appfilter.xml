@@ -5004,5 +5004,11 @@
 	<item
 		component="ComponentInfo{com.github.xloem.qrstream/com.github.xloem.qrstream.Launcher}"
 		drawable="qrstream" />
+	<item
+		component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}"
+		drawable="line" />
+	<item
+		component="ComponentInfo{com.linecorp.linelite/com.linecorp.linelite.ui.android.main.IntroActivity}"
+		drawable="line" />
 
 </resources>
