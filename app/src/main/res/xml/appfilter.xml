@@ -4975,4 +4975,8 @@
 		component="ComponentInfo{com.whatsapp/com.whatsapp.Main}"
 		drawable="whatsapp" />
 
+	<item
+		component="ComponentInfo{openfoodfacts.github.scrachx.openfood/openfoodfacts.github.scrachx.openfood.views.splash.SplashActivity}"
+		drawable="open_food_facts" />
+
 </resources>
