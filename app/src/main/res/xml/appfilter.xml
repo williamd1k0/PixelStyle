@@ -2605,6 +2605,9 @@
 		component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.NoUIActivity}"
 		drawable="magisk" />
 	<item
+		component="ComponentInfo{com.topjohnwu.magisk/a.c}"
+		drawable="magisk" />
+	<item
 		component="ComponentInfo{org.noear.ddcat/org.noear.ddcat.controller.HomeNavigationActivity}"
 		drawable="ddcat" />
 	<item
