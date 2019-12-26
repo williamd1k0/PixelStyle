@@ -4974,9 +4974,11 @@
 	<item
 		component="ComponentInfo{com.whatsapp/com.whatsapp.Main}"
 		drawable="whatsapp" />
-
 	<item
 		component="ComponentInfo{openfoodfacts.github.scrachx.openfood/openfoodfacts.github.scrachx.openfood.views.splash.SplashActivity}"
 		drawable="open_food_facts" />
+	<item
+		component="ComponentInfo{com.perflyst.twire/com.perflyst.twire.activities.StartUpActivity}"
+		drawable="twire" />
 
 </resources>
