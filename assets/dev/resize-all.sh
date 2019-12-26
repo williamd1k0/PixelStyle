@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/sh
 cd ../
 [ ! -d ".resized" ] && mkdir .resized
 cd icons/

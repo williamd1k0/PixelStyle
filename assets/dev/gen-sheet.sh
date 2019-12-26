@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/sh
 cd ../icons/
 X=6
 SPRITES=$(find *.png | wc -l)
