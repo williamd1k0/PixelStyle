@@ -765,5 +765,7 @@
     <item drawable="dimmer" />
     <item drawable="qrstream" />
     <item drawable="line" />
+    <item drawable="katawa_shoujo" />
+    <item drawable="click_bus" />
 
 </resources>

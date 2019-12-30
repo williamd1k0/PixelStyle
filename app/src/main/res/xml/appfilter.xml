@@ -4961,7 +4961,7 @@
 		component="ComponentInfo{com.jarsilio.android.waveup/com.jarsilio.android.waveup.MainActivity}"
 		drawable="waveup" />
 	
-	<!-- 2019.12.25 Add -->
+	<!-- v0.5.0 Add -->
 	<item
 		component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.activity.AuroraActivity}"
 		drawable="aurora_droid" />
@@ -5011,4 +5011,11 @@
 		component="ComponentInfo{com.linecorp.linelite/com.linecorp.linelite.ui.android.main.IntroActivity}"
 		drawable="line" />
 
+	<!-- v0.6.0 Add -->
+	<item
+		component="ComponentInfo{com.ttt.katawa/org.renpy.android.PythonSDLActivity}"
+		drawable="katawa_shoujo" />
+	<item
+		component="ComponentInfo{com.clickbus.mobile/com.clickbus.mobile.SplashScreenActivity}"
+		drawable="click_bus" />
 </resources>
