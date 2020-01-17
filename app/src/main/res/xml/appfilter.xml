@@ -4907,6 +4907,10 @@
 	<item
 		component="ComponentInfo{com.aurora.store/com.aurora.store.activity.AuroraActivity}"
 		drawable="aurora_store" />
+	<!-- Fix Aurora Droid activity -->
+	<item
+		component="ComponentInfo{com.aurora.store/com.aurora.store.ui.single.activity.SplashActivity}"
+		drawable="aurora_store" />
 	<item
 		component="ComponentInfo{com.tananaev.calculator/com.tananaev.calculator.MainActivity}"
 		drawable="calculator_notify" />
