@@ -17,8 +17,15 @@
 
     <string-array name="whatsnew">
         <item>aurora_store</item>
-        <item>katawa_shoujo</item>
         <item>click_bus</item>
+        <item>crunchyroll</item>
+        <item>gloob_games</item>
+        <item>katawa_shoujo</item>
+        <item>leafpic</item>
+        <item>ifood</item>
+        <item>markor_quicknote</item>
+        <item>markor_todo</item>
+        <item>uber</item>
     </string-array>
 
 </resources>

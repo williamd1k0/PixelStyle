@@ -767,5 +767,12 @@
     <item drawable="line" />
     <item drawable="katawa_shoujo" />
     <item drawable="click_bus" />
+    <item drawable="crunchyroll" />
+    <item drawable="ifood" />
+    <item drawable="markor_quicknote" />
+    <item drawable="markor_todo" />
+    <item drawable="uber" />
+    <item drawable="leafpic" />
+    <item drawable="gloob_games" />
 
 </resources>

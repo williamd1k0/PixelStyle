@@ -4734,6 +4734,14 @@
 	<item
 		component="ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.MainActivity}"
 		drawable="markor" />
+	<!-- Markor shortcuts -->	
+	<item
+		component="ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.openeditor.OpenEditorQuickNoteActivity}"
+		drawable="markor_quicknote" />
+	<item
+		component="ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.openeditor.OpenEditorTodoActivity}"
+		drawable="markor_todo" />
+
 	<item
 		component="ComponentInfo{deep.ryd.rydplayer/deep.ryd.MainActivity}"
 		drawable="musicpiped" />
@@ -5022,4 +5030,20 @@
 	<item
 		component="ComponentInfo{com.clickbus.mobile/com.clickbus.mobile.SplashScreenActivity}"
 		drawable="click_bus" />
+	<item
+		component="ComponentInfo{com.crunchyroll.crunchyroid/com.crunchyroll.crunchyroid.activities.SplashActivity}"
+		drawable="crunchyroll" />
+	<item
+		component="ComponentInfo{br.com.brainweb.ifood/br.com.brainweb.ifood.mvp.splash.view.SplashScreenActivity}"
+		drawable="ifood" />
+	<item
+		component="ComponentInfo{com.ubercab/com.ubercab.presidio.app.core.root.RootActivity}"
+		drawable="uber" />
+	<item
+		component="ComponentInfo{com.alienpants.leafpicrevived/com.alienpants.leafpicrevived.activities.SplashScreen}"
+		drawable="leafpic" />
+	<item
+		component="ComponentInfo{com.globosat.gloob.aiyra.gloobgames/com.unity3d.player.UnityPlayerActivity}"
+		drawable="gloob_games" />
+
 </resources>
