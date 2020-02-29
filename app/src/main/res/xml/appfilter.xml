@@ -5045,5 +5045,8 @@
 	<item
 		component="ComponentInfo{com.globosat.gloob.aiyra.gloobgames/com.unity3d.player.UnityPlayerActivity}"
 		drawable="gloob_games" />
+	<item
+		component="ComponentInfo{com.bumble.app/com.bumble.app.ui.launcher.BumbleLauncherActivity}"
+		drawable="bumble" />
 
 </resources>
