@@ -1,6 +1,6 @@
 ## Pixel Style IconPack
 
-[![Donations](https://img.shields.io/badge/Donations-USD%2FBRL%2FBTC%2FBCH-%238571aa)](https://tumeo.space/donations/)
+[![Donations](https://img.shields.io/badge/Donations-USD%2FBRL%2FBTC%2FBCH-%238571aa?style=flat-square)](https://tumeo.space/donations/)
 
 A pixel art icon pack based on [MBE Style](https://github.com/iAcn/MBEStyle) project by [@iAcn](https://github.com/iAcn/).
 
