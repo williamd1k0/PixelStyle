@@ -16,7 +16,9 @@
     </string-array>
 
     <string-array name="whatsnew">
+        <item>amazon</item>
         <item>aurora_store</item>
+        <item>banco_inter</item>
         <item>bumble</item>
         <item>click_bus</item>
         <item>crunchyroll</item>
@@ -27,7 +29,9 @@
         <item>ifood</item>
         <item>markor_quicknote</item>
         <item>markor_todo</item>
+        <item>red_moon</item>
         <item>uber</item>
+        <item>uber_eats</item>
     </string-array>
 
 </resources>

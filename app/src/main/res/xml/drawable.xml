@@ -775,5 +775,8 @@
     <item drawable="leafpic" />
     <item drawable="gloob_games" />
     <item drawable="bumble" />
+    <item drawable="banco_inter" />
+    <item drawable="red_moon" />
+    <item drawable="uber_eats" />
 
 </resources>

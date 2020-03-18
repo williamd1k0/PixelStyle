@@ -5048,5 +5048,17 @@
 	<item
 		component="ComponentInfo{com.bumble.app/com.bumble.app.ui.launcher.BumbleLauncherActivity}"
 		drawable="bumble" />
+	<item
+		component="ComponentInfo{br.com.intermedium/br.com.intermedium.splash.SplashActivity}"
+		drawable="banco_inter" />
+	<item
+		component="ComponentInfo{com.ubercab.eats/com.ubercab.eats.app.feature.launch.LauncherActivity}"
+		drawable="uber_eats" />
+	<item
+		component="ComponentInfo{com.jmstudios.redmoon/com.jmstudios.redmoon.MainActivity}"
+		drawable="red_moon" />
+	<item
+		component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}"
+		drawable="amazon" />
 
 </resources>
