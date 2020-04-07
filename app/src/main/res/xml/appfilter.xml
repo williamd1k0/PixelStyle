@@ -4706,6 +4706,9 @@
 	<item
 		component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.LaunchActivity}"
 		drawable="duckgo" />
+	<item
+		component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.Launcher}"
+		drawable="duckgo" />
 	
 	<!-- 2019.03.12 Add -->
 	<item
