@@ -4918,7 +4918,7 @@
 	<item
 		component="ComponentInfo{com.aurora.store/com.aurora.store.activity.AuroraActivity}"
 		drawable="aurora_store" />
-	<!-- Fix Aurora Droid activity -->
+	<!-- Fix Aurora Store activity -->
 	<item
 		component="ComponentInfo{com.aurora.store/com.aurora.store.ui.single.activity.SplashActivity}"
 		drawable="aurora_store" />
@@ -4979,6 +4979,10 @@
 	<!-- v0.5.0 Add -->
 	<item
 		component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.activity.AuroraActivity}"
+		drawable="aurora_droid" />
+	<!-- Fix Aurora Droid activity -->
+	<item
+		component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.ui.activity.AuroraActivity}"
 		drawable="aurora_droid" />
 	<item
 		component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}"
