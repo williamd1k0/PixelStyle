@@ -5068,4 +5068,18 @@
 		component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}"
 		drawable="amazon" />
 
+	<!-- v0.7.0 Add -->
+	<item
+		component="ComponentInfo{me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity}"
+		drawable="material_files" />
+	<item
+		component="ComponentInfo{org.mozc.android.inputmethod.japanese/org.mozc.android.inputmethod.japanese.LauncherActivity}"
+		drawable="mozc" />
+	<item
+		component="ComponentInfo{im.vector.alpha/im.vector.activity.VectorLauncherActivity}"
+		drawable="riot_im" />
+	<item
+		component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.Slide}"
+		drawable="slide" />
+
 </resources>

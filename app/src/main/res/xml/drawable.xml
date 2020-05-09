@@ -778,5 +778,11 @@
     <item drawable="banco_inter" />
     <item drawable="red_moon" />
     <item drawable="uber_eats" />
+    <item drawable="material_files" />
+    <item drawable="mozc" />
+    <item drawable="riot_im" />
+    <item drawable="slide" />
+    <item drawable="slide" />
+
 
 </resources>
