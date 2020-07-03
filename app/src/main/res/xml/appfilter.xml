@@ -5081,5 +5081,23 @@
 	<item
 		component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.Slide}"
 		drawable="slide" />
+	<item
+		component="ComponentInfo{com.bubelov.coins/com.bubelov.coins.ui.activity.LauncherActivity}"
+		drawable="bitcoin_map" />
+	<item
+		component="ComponentInfo{com.mercadolibre/com.mercadolibre.activities.SplashActivity}"
+		drawable="mercado_libre" />
+	<item
+		component="ComponentInfo{com.mercadopago.wallet/com.mercadopago.wallet.AccountSummaryActivity}"
+		drawable="mercado_pago" />
+	<item
+		component="ComponentInfo{com.github.ashutoshgngwr.noice/com.github.ashutoshgngwr.noice.MainActivity}"
+		drawable="noice" />
+	<item
+		component="ComponentInfo{info.guardianproject.pixelknot/info.guardianproject.pixelknot.SendActivity}"
+		drawable="pixelknot" />
+	<item
+		component="ComponentInfo{name.boyle.chris.sgtpuzzles/name.boyle.chris.sgtpuzzles.SGTPuzzles}"
+		drawable="puzzles" />
 
 </resources>

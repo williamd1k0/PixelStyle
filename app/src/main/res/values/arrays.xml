@@ -16,8 +16,14 @@
     </string-array>
 
     <string-array name="whatsnew">
+        <item>bitcoin_map</item>
         <item>material_files</item>
+        <item>mercado_libre</item>
+        <item>mercado_pago</item>
         <item>mozc</item>
+        <item>noice</item>
+        <item>pixelknot</item>
+        <item>puzzles</item>
         <item>riot_im</item>
         <item>slide</item>
     </string-array>

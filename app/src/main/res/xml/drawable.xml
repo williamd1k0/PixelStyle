@@ -783,6 +783,12 @@
     <item drawable="riot_im" />
     <item drawable="slide" />
     <item drawable="slide" />
+    <item drawable="bitcoin_map" />
+    <item drawable="mercado_libre" />
+    <item drawable="mercado_pago" />
+    <item drawable="noice" />
+    <item drawable="pixelknot" />
+    <item drawable="puzzles" />
 
 
 </resources>
