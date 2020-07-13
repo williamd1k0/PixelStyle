@@ -789,6 +789,12 @@
     <item drawable="noice" />
     <item drawable="pixelknot" />
     <item drawable="puzzles" />
+    <item drawable="dlive" />
+    <item drawable="hash_droid" />
+    <item drawable="open_multimap" />
+    <item drawable="thorium" />
+    <item drawable="whohasmystuff" />
+    <item drawable="wifi_autooff" />
 
 
 </resources>

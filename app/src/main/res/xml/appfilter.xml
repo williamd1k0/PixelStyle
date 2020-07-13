@@ -5099,5 +5099,23 @@
 	<item
 		component="ComponentInfo{name.boyle.chris.sgtpuzzles/name.boyle.chris.sgtpuzzles.SGTPuzzles}"
 		drawable="puzzles" />
+	<item
+		component="ComponentInfo{io.dlive/io.dlive.activity.SplashActivity}"
+		drawable="dlive" />
+	<item
+		component="ComponentInfo{com.hobbyone.HashDroid/com.hobbyone.HashDroid.MainActivity}"
+		drawable="hash_droid" />
+	<item
+		component="ComponentInfo{app.fedilab.openmaps/app.fedilab.openmaps.MainActivity}"
+		drawable="open_multimap" />
+	<item
+		component="ComponentInfo{net.schueller.peertube/net.schueller.peertube.activity.VideoListActivity}"
+		drawable="thorium" />
+	<item
+		component="ComponentInfo{de.freewarepoint.whohasmystuff/de.freewarepoint.whohasmystuff.MainActivity}"
+		drawable="whohasmystuff" />
+	<item
+		component="ComponentInfo{de.j4velin.wifiAutoOff/de.j4velin.wifiAutoOff.Preferences}"
+		drawable="wifi_autooff" />
 
 </resources>
