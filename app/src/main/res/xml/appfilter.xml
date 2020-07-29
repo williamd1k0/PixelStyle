@@ -4985,6 +4985,9 @@
 		component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.ui.activity.AuroraActivity}"
 		drawable="aurora_droid" />
 	<item
+		component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.ui.generic.activity.SplashActivity}"
+		drawable="aurora_droid" />
+	<item
 		component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}"
 		drawable="kdeconnect" />
 	<item
