@@ -795,6 +795,11 @@
     <item drawable="thorium" />
     <item drawable="whohasmystuff" />
     <item drawable="wifi_autooff" />
+    <item drawable="droidcam" />
+    <item drawable="element" />
+    <item drawable="lynket" />
+    <item drawable="nextdns" />
+    <item drawable="tox" />
 
 
 </resources>

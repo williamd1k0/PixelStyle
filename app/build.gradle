@@ -8,8 +8,8 @@ android {
         applicationId "space.tumeo.pixel"
         minSdkVersion 21
         targetSdkVersion 27
-        versionCode 71
-        versionName "0.7.1"
+        versionCode 80
+        versionName "0.8.0"
         resConfigs "en"
     }
 

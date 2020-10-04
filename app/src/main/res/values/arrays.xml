@@ -16,22 +16,11 @@
     </string-array>
 
     <string-array name="whatsnew">
-        <item>bitcoin_map</item>
-        <item>dlive</item>
-        <item>hash_droid</item>
-        <item>material_files</item>
-        <item>mercado_libre</item>
-        <item>mercado_pago</item>
-        <item>mozc</item>
-        <item>noice</item>
-        <item>open_multimap</item>
-        <item>pixelknot</item>
-        <item>puzzles</item>
-        <item>riot_im</item>
-        <item>slide</item>
-        <item>thorium</item>
-        <item>whohasmystuff</item>
-        <item>wifi_autooff</item>
+        <item>droidcam</item>
+        <item>element</item>
+        <item>lynket</item>
+        <item>nextdns</item>
+        <item>tox</item>
     </string-array>
 
 </resources>

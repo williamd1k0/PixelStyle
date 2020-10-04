@@ -4996,6 +4996,10 @@
 	<item
 		component="ComponentInfo{com.picpay/com.picpay.features.enter.PicPayEnterActivity}"
 		drawable="picpay" />
+	<!-- Fix PicPay activity -->
+	<item
+		component="ComponentInfo{com.picpay/com.picpay.features.enter.ReleasePicPayEnter}"
+		drawable="picpay" />
 	<item
 		component="ComponentInfo{com.whatsapp/com.whatsapp.Main}"
 		drawable="whatsapp" />
@@ -5120,5 +5124,23 @@
 	<item
 		component="ComponentInfo{de.j4velin.wifiAutoOff/de.j4velin.wifiAutoOff.Preferences}"
 		drawable="wifi_autooff" />
+
+	<!-- v0.8.0 Add -->
+
+	<item
+		component="ComponentInfo{chat.tox.antox/chat.tox.antox.SplashActivity}"
+		drawable="tox" />
+	<item
+		component="ComponentInfo{com.dev47apps.droidcam/com.dev47apps.droidcam.DroidCam}"
+		drawable="droidcam" />
+	<item
+		component="ComponentInfo{im.vector.app/im.vector.app.features.Alias}"
+		drawable="element" />
+	<item
+		component="ComponentInfo{io.nextdns.NextDNS/io.nextdns.NextDNS.MainActivity}"
+		drawable="nextdns" />
+	<item
+		component="ComponentInfo{arun.com.chromer/arun.com.chromer.MainActivity}"
+		drawable="lynket" />
 
 </resources>
