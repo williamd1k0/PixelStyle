@@ -2601,11 +2601,15 @@
 	<item
 		component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.SplashActivity}"
 		drawable="magisk" />
+	<!-- Alt Magisk activity -->
 	<item
 		component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.NoUIActivity}"
 		drawable="magisk" />
 	<item
 		component="ComponentInfo{com.topjohnwu.magisk/a.c}"
+		drawable="magisk" />
+	<item
+		component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.ui.MainActivity}"
 		drawable="magisk" />
 	<item
 		component="ComponentInfo{org.noear.ddcat/org.noear.ddcat.controller.HomeNavigationActivity}"
@@ -4688,6 +4692,10 @@
 	<item
 		component="ComponentInfo{com.Slack/com.Slack.ui.HomeActivity}"
 		drawable="slack" />
+	<!-- Alt Slack activity -->
+	<item
+		component="ComponentInfo{com.Slack/slack.app.ui.HomeActivity}"
+		drawable="slack" />
 	<item
 		component="ComponentInfo{com.nu.production/br.com.nubank.shell.screens.splash.SplashActivity}"
 		drawable="nubank" />
@@ -4918,9 +4926,12 @@
 	<item
 		component="ComponentInfo{com.aurora.store/com.aurora.store.activity.AuroraActivity}"
 		drawable="aurora_store" />
-	<!-- Fix Aurora Store activity -->
+	<!-- Alt Aurora Store activity -->
 	<item
 		component="ComponentInfo{com.aurora.store/com.aurora.store.ui.single.activity.SplashActivity}"
+		drawable="aurora_store" />
+	<item
+		component="ComponentInfo{com.aurora.store/com.aurora.store.view.ui.onboarding.OnboardingActivity}"
 		drawable="aurora_store" />
 	<item
 		component="ComponentInfo{com.tananaev.calculator/com.tananaev.calculator.MainActivity}"
@@ -4980,7 +4991,7 @@
 	<item
 		component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.activity.AuroraActivity}"
 		drawable="aurora_droid" />
-	<!-- Fix Aurora Droid activity -->
+	<!-- Alt Aurora Droid activity -->
 	<item
 		component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.ui.activity.AuroraActivity}"
 		drawable="aurora_droid" />
@@ -4996,7 +5007,7 @@
 	<item
 		component="ComponentInfo{com.picpay/com.picpay.features.enter.PicPayEnterActivity}"
 		drawable="picpay" />
-	<!-- Fix PicPay activity -->
+	<!-- Alt PicPay activity -->
 	<item
 		component="ComponentInfo{com.picpay/com.picpay.features.enter.ReleasePicPayEnter}"
 		drawable="picpay" />
@@ -5058,6 +5069,10 @@
 		drawable="leafpic" />
 	<item
 		component="ComponentInfo{com.globosat.gloob.aiyra.gloobgames/com.unity3d.player.UnityPlayerActivity}"
+		drawable="gloob_games" />
+	<!-- Alt Gloob Games activity -->
+	<item
+		component="ComponentInfo{com.globosat.gloob.aiyra.gloobgames/com.google.firebase.MessagingUnityPlayerActivity}"
 		drawable="gloob_games" />
 	<item
 		component="ComponentInfo{com.bumble.app/com.bumble.app.ui.launcher.BumbleLauncherActivity}"
