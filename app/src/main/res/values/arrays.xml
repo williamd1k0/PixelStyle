@@ -16,10 +16,17 @@
     </string-array>
 
     <string-array name="whatsnew">
+        <item>bettercounter</item>
         <item>droidcam</item>
         <item>element</item>
+        <item>habits</item>
+        <item>kanjidraw</item>
         <item>lynket</item>
         <item>nextdns</item>
+        <item>session</item>
+        <item>oculus</item>
+        <item>mangaplus</item>
+        <item>sidequestvr</item>
         <item>tox</item>
     </string-array>
 

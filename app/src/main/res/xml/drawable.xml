@@ -800,6 +800,13 @@
     <item drawable="lynket" />
     <item drawable="nextdns" />
     <item drawable="tox" />
+    <item drawable="bettercounter" />
+    <item drawable="habits" />
+    <item drawable="kanjidraw" />
+    <item drawable="session" />
+    <item drawable="oculus" />
+    <item drawable="mangaplus" />
+    <item drawable="sidequestvr" />
 
 
 </resources>

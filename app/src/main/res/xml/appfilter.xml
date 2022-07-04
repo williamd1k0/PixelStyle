@@ -5157,5 +5157,26 @@
 	<item
 		component="ComponentInfo{arun.com.chromer/arun.com.chromer.MainActivity}"
 		drawable="lynket" />
+	<item
+		component="ComponentInfo{org.kde.bettercounter/org.kde.bettercounter.ui.MainActivity}"
+		drawable="bettercounter" />
+	<item
+		component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}"
+		drawable="habits" />
+	<item
+		component="ComponentInfo{ch.seto.kanjirecog/com.leafdigital.kanji.android.MainActivity}"
+		drawable="kanjidraw" />
+	<item
+		component="ComponentInfo{network.loki.messenger/network.loki.messenger.RoutingActivity}"
+		drawable="session" />
+	<item
+		component="ComponentInfo{com.oculus.twilight/com.oculus.twilight.crossapp.activity.XOCLoginActivity}"
+		drawable="oculus" />
+	<item
+		component="ComponentInfo{jp.co.shueisha.mangaplus/jp.co.shueisha.mangaplus.activity.StartActivity}"
+		drawable="mangaplus" />
+	<item
+		component="ComponentInfo{side.quest.mobile/side.quest.mobile.MainActivity}"
+		drawable="sidequestvr" />
 
 </resources>
