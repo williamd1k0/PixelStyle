@@ -1498,6 +1498,9 @@
 		component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}"
 		drawable="telegram" />
 	<item
+		component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.DefaultIcon}"
+		drawable="telegram" />
+	<item
 		component="ComponentInfo{com.samruston.twitter/com.samruston.twitter.Launcher1}"
 		drawable="flamingo" />
 	<item
