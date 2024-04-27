@@ -1,4 +1,6 @@
-## Pixel Style IconPack
+## ![](assets/icon-apk/pixelstyle.png) Pixel Style IconPack
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E0D6FGZ)
 
 [![Donations](https://img.shields.io/badge/Donations-USD%2FBRL%2FBTC%2FBCH-%238571aa?style=flat-square)](https://tumeo.space/donations/)
 
