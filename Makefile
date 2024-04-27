@@ -1,4 +1,4 @@
-VERSION := 0.8.0
+VERSION := 0.9.0
 APK_OUTPUTS := app/build/outputs/apk
 ICONS_TARGET_DIR := app/src/main/res/drawable-nodpi
 ICONS_SOURCE_DIR := assets/icons
@@ -7,8 +7,6 @@ ICONS_PNG := $(notdir ${ICONS_SOURCE})
 ICONS_TARGETS := $(addprefix ${ICONS_TARGET_DIR}/,${ICONS_PNG})
 SHEET_TILES := 8
 
-test: ${ICONS_TARGETS}
-
 debug: ${APK_OUTPUTS}/debug/PixelStyle-${VERSION}.apk
 
 sheets: assets/dev/all-xxl.png
@@ -16,7 +14,7 @@ sheets: assets/dev/all-xxl.png
 ${ICONS_TARGETS}: ${ICONS_SOURCE}
 	@magick $(addprefix ${ICONS_SOURCE_DIR}/,$(notdir $@)) -scale 1200% $@
 
-${APK_OUTPUTS}/debug/PixelStyle-${VERSION}.apk: ${ICONS_TARGETS}
+${APK_OUTPUTS}/debug/PixelStyle-${VERSION}.apk: ${ICONS_TARGETS} app/src/main/res/xml/appfilter.xml
 	@./gradlew assembleDebug
 
 assets/dev/all.png: ${ICONS_SOURCE}

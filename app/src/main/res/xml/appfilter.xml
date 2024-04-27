@@ -4684,6 +4684,9 @@
 		component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}"
 		drawable="discord" />
 	<item
+		component="ComponentInfo{com.discord/com.discord.main.MainDefault}"
+		drawable="discord" />
+	<item
 		component="ComponentInfo{com.keylesspalace.tusky/com.keylesspalace.tusky.SplashActivity}"
 		drawable="tusky" />
 	<item
@@ -4927,6 +4930,9 @@
 		component="ComponentInfo{org.mariotaku.twidere/org.mariotaku.twidere.activity.MainActivity}"
 		drawable="twidere" />
 	<item
+		component="ComponentInfo{com.twidere.twiderex/com.twidere.twiderex.TwidereXActivity}"
+		drawable="twidere" />
+	<item
 		component="ComponentInfo{com.aurora.store/com.aurora.store.activity.AuroraActivity}"
 		drawable="aurora_store" />
 	<!-- Alt Aurora Store activity -->
@@ -4935,6 +4941,9 @@
 		drawable="aurora_store" />
 	<item
 		component="ComponentInfo{com.aurora.store/com.aurora.store.view.ui.onboarding.OnboardingActivity}"
+		drawable="aurora_store" />
+	<item
+		component="ComponentInfo{com.aurora.store/com.aurora.store.MainActivity}"
 		drawable="aurora_store" />
 	<item
 		component="ComponentInfo{com.tananaev.calculator/com.tananaev.calculator.MainActivity}"
@@ -5181,5 +5190,7 @@
 	<item
 		component="ComponentInfo{side.quest.mobile/side.quest.mobile.MainActivity}"
 		drawable="sidequestvr" />
+
+	<!-- v0.9.0 Add -->
 
 </resources>
