@@ -5193,4 +5193,41 @@
 
 	<!-- v0.9.0 Add -->
 
+	<item
+		component="ComponentInfo{org.oxycblt.auxio/org.oxycblt.auxio.MainActivity}"
+		drawable="auxio" />
+	<item
+		component="ComponentInfo{xyz.zedler.patrick.grocy/xyz.zedler.patrick.grocy.activity.SplashActivity}"
+		drawable="grocy" />
+	<item
+		component="ComponentInfo{org.localsend.localsend_app/org.localsend.localsend_app.MainActivity}"
+		drawable="localsend" />
+	<item
+		component="ComponentInfo{hu.vmiklos.plees_tracker/hu.vmiklos.plees_tracker.MainActivity}"
+		drawable="plees_tracker" />
+	<item
+		component="ComponentInfo{com.github.k1rakishou.chan.fdroid/com.github.k1rakishou.chan.activity.StartActivity}"
+		drawable="kurobaex" />
+	<item
+		component="ComponentInfo{com.github.k1rakishou.chan/com.github.k1rakishou.chan.activity.StartActivity}"
+		drawable="kurobaex" />
+	<item
+		component="ComponentInfo{org.koitharu.kotatsu/org.koitharu.kotatsu.main.ui.MainActivity}"
+		drawable="kotatsu" />
+	<item
+		component="ComponentInfo{com.budget.tracker_app/com.budget.tracker_app.MainActivity}"
+		drawable="cashew" />
+	<item
+		component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}"
+		drawable="brave" />
+	<item
+		component="ComponentInfo{org.briarproject.briar.android/org.briarproject.briar.android.splash.SplashScreenActivity}"
+		drawable="briar" />
+	<item
+		component="ComponentInfo{com.studiosol.afinadorlite/com.studiosol.afinadorlite.activities.SplashActivity}"
+		drawable="tuner" />
+	<item
+		component="ComponentInfo{space.tumeo.bath_tracker/hu.vmiklos.plees_tracker.MainActivity}"
+		drawable="bath_tracker" />
+
 </resources>

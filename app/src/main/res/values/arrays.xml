@@ -16,18 +16,18 @@
     </string-array>
 
     <string-array name="whatsnew">
-        <item>bettercounter</item>
-        <item>droidcam</item>
-        <item>element</item>
-        <item>habits</item>
-        <item>kanjidraw</item>
-        <item>lynket</item>
-        <item>nextdns</item>
-        <item>session</item>
-        <item>oculus</item>
-        <item>mangaplus</item>
-        <item>sidequestvr</item>
-        <item>tox</item>
+        <item>x</item>
+        <item>auxio</item>
+        <item>grocy</item>
+        <item>localsend</item>
+        <item>plees_tracker</item>
+        <item>kurobaex</item>
+        <item>kotatsu</item>
+        <item>cashew</item>
+        <item>brave</item>
+        <item>briar</item>
+        <item>tuner</item>
+        <item>bath_tracker</item>
     </string-array>
 
 </resources>

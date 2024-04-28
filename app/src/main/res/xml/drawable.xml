@@ -807,6 +807,18 @@
     <item drawable="oculus" />
     <item drawable="mangaplus" />
     <item drawable="sidequestvr" />
+    <item drawable="x" />
+    <item drawable="auxio" />
+    <item drawable="grocy" />
+    <item drawable="localsend" />
+    <item drawable="plees_tracker" />
+    <item drawable="kurobaex" />
+    <item drawable="kotatsu" />
+    <item drawable="cashew" />
+    <item drawable="brave" />
+    <item drawable="briar" />
+    <item drawable="tuner" />
+    <item drawable="bath_tracker" />
 
 
 </resources>

@@ -8,7 +8,7 @@ ICONS_TARGETS := $(addprefix ${ICONS_TARGET_DIR}/,${ICONS_PNG})
 SHEET_TILES := 8
 
 debug: ${APK_OUTPUTS}/debug/PixelStyle-${VERSION}.apk
-
+release: ${APK_OUTPUTS}/release/PixelStyle-${VERSION}.apk
 sheets: assets/dev/all-xxl.png
 
 ${ICONS_TARGETS}: ${ICONS_SOURCE}
@@ -16,6 +16,9 @@ ${ICONS_TARGETS}: ${ICONS_SOURCE}
 
 ${APK_OUTPUTS}/debug/PixelStyle-${VERSION}.apk: ${ICONS_TARGETS} app/src/main/res/xml/appfilter.xml
 	@./gradlew assembleDebug
+
+${APK_OUTPUTS}/release/PixelStyle-${VERSION}.apk: ${ICONS_TARGETS} app/src/main/res/xml/appfilter.xml
+	@./gradlew assembleRelease
 
 assets/dev/all.png: ${ICONS_SOURCE}
 	@magick montage $^ -tile ${SHEET_TILES}x$(shell calc 'ceil ($(shell echo ${ICONS_SOURCE} | wc -w) / ${SHEET_TILES})' | xargs) -geometry 16x16+0+0 -background none $@
