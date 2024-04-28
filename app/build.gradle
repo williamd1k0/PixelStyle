@@ -42,7 +42,7 @@ android {
     // 修改生成 Apk 的文件名
     android.applicationVariants.all { variant ->
         variant.outputs.all { output ->
-            outputFileName = "PixelStyle-${defaultConfig.versionName}.apk"
+            outputFileName = "PixelStyle.apk"
         }
     }
 }
