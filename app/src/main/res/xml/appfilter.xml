@@ -1505,10 +1505,10 @@
 		drawable="flamingo" />
 	<item
 		component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}"
-		drawable="twitter" />
+		drawable="x" />
 	<item
 		component="ComponentInfo{com.twitter.android/com.twitter.android.LoginActivity}"
-		drawable="twitter" />
+		drawable="x" />
 	<item
 		component="ComponentInfo{com.htc.htctwitter/com.htc.htctwitter.TwidroidSplash}"
 		drawable="twitter" />
