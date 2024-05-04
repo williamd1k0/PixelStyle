@@ -465,7 +465,7 @@
 	<!-- 照片 / Photos -->
 	<item
 		component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}"
-		drawable="googlephotos" />
+		drawable="gallery" />
 
 	<!-- 追书神器 /  zhuishushenqi  -->
 	<item
@@ -5229,5 +5229,8 @@
 	<item
 		component="ComponentInfo{space.tumeo.bath_tracker/hu.vmiklos.plees_tracker.MainActivity}"
 		drawable="bath_tracker" />
+	<item
+		component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}"
+		drawable="filemanager" />
 
 </resources>
